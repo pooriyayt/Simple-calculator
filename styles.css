@@ -13,7 +13,7 @@ background-color: red;
 box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 .display-box {
-background-color: #dcdbe1bb;
+background-color:red;
 border: solid black 0.5px;
 color: black;
 border-radius: 5px;
@@ -21,7 +21,7 @@ width: 100%;
 height: 65%;
 }
 .button {
-background-color: #137e65;
+background-color: red;
 color: #fcfcfc;
 border: solid rgba(0, 0, 0, 0.089) 0.5px;
 width: 100%;
